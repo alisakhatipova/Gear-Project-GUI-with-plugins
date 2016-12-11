@@ -1,4 +1,4 @@
-Программа написана под Ubuntu 32-bit, QT 5.5
-Файлы model.h и model.cpp одинаковы в обеих программах.
-В папке source - исходные коды для консольного и графического вариантов(ConsV и GraphV соответственно).
-В папке executable - исполняемые файлы и папка plugins с файлом plugin.so, содержащим два фильтра - Гаусса и Медианный.
+Program written under Ubuntu 32-bit, QT 5.5
+Two types of interface terminal and GUI (ConsV и GraphV)
+MVC pattern was used
+Plagins included in file  plugin.so with filters: Median and Gaussian
